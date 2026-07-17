@@ -103,7 +103,6 @@ Dự án bao gồm:
 - Draw.io
 - Figma
 - Microsoft Word
-- Microsoft PowerPoint
 
 ---
 
