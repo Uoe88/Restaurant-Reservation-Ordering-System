@@ -114,34 +114,28 @@ mai-hoa-dining-system/
 ├── README.md
 ├── LICENSE
 │
-├── business-analysis/
-│   ├── Functional_Requirements.md
-│   ├── Data_Dictionary.md
-│   └── Input_Output_Specification.md
-│
 ├── screenshots/
 │   ├── diagrams/
 │   │   ├── BFD.png
-│   │   ├── Context_Diagram.png
-│   │   ├── DFD_Level_0.png
-│   │   ├── DFD_Reservation.png
-│   │   ├── DFD_Ordering.png
-│   │   └── DFD_Payment.png
+│   │   ├── CD.png
+│   │   ├── DFD_level_0.png
+│   │   ├── DFD_level1_QlyBanVaThucDon.png
+│   │   ├── DFD_leve1_DatBan.png
+│   |   ├── DFD_leve1_GoiMon.png
+│   │   └── DFD_leve1_ThanhToan.png
 │   │
 │   └── ui-ux/
-│       ├── dashboard.png
-│       ├── reservation-timeline.png
-│       ├── reservation-form.png
-│       ├── ordering.png
-│       ├── payment.png
-│       └── report.png
+│       ├── Dashboard_TongQuan.png
+│       ├── DatBan.png
+│       ├── GoiMon.png
+│       ├── CheBienPhucVu.png
+│       └── ThanhToan.png
 │
 ├── prototype/
 │   └── figma-link.md
 │
 └── docs/
-    ├── Final_Report.pdf
-    └── Presentation.pdf
+    └── Final_Report.pdf
 ```
 
 
