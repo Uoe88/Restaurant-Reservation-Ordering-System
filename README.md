@@ -119,46 +119,31 @@ mai-hoa-dining-system/
 │   ├── Data_Dictionary.md
 │   └── Input_Output_Specification.md
 │
-├── diagrams/
-│   ├── BFD.png
-│   ├── Context_Diagram.png
-│   ├── DFD_Level_0.png
-│   ├── DFD_QuanLyDatBan.png
-│   ├── DFD_QuanLyGoiMon.png
-│   └── DFD_ThanhToan.png
+├── screenshots/
+│   ├── diagrams/
+│   │   ├── BFD.png
+│   │   ├── Context_Diagram.png
+│   │   ├── DFD_Level_0.png
+│   │   ├── DFD_Reservation.png
+│   │   ├── DFD_Ordering.png
+│   │   └── DFD_Payment.png
+│   │
+│   └── ui-ux/
+│       ├── dashboard.png
+│       ├── reservation-timeline.png
+│       ├── reservation-form.png
+│       ├── ordering.png
+│       ├── payment.png
+│       └── report.png
 │
-├── ui-ux/
-│   ├── screenshots/
+├── prototype/
 │   └── figma-link.md
 │
-├── docs/
-│   ├── BaoCao.pdf
-│   └── Slide.pdf
-│
-└── assets/
+└── docs/
+    ├── Final_Report.pdf
+    └── Presentation.pdf
 ```
 
----
-
-# 📷 Hình ảnh hệ thống
-
-## Sơ đồ phân rã chức năng (BFD)
-
-*(BFD.png)*
-
----
-
-## Sơ đồ luồng dữ liệu (DFD)
-
-*(Context Diagram, DFD Level 0 và DFD các phân hệ)*
-
----
-
-## Giao diện người dùng
-
-- Quản lý đặt bàn
-- Quản lý gọi món
-- Thanh toán
 
 ---
 
